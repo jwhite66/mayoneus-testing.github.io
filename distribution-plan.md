@@ -11,7 +11,7 @@ professional campaigners, who will craft interventions in targeted districts to
 make fundamental reform the issue in that campaign — and to make the reform
 candidate the winner.
 
-In 2014, these interventions will serve as prototype for a much larger round of
+In 2014, these interventions will serve as the prototype for a much larger round of
 funding in the 2016 cycle. Our aim this year is to learn what works, and to
 prepare for the much bigger fight in 2016 for a majority in Congress committed
 to reform.
@@ -53,7 +53,7 @@ the money raised through the two pledge campaigns.
 
 ### What payment processor do you use? Are my money and information safe?
 
-We have decided upon using [Stripe](https://stripe.com/) as our payment
+We have decided to use [Stripe](https://stripe.com/) as our payment
 processor. Stripe has offered us a very competitive rate (for which we thank
 them), and Stripe is compliant with PCI requirements and no sensitive data hits
 our servers.  When you enter in your credit card information, it is not stored
